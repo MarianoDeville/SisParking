@@ -1,0 +1,42 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=D:\Hardware\CFPark\Sistema economico\Sistema economico 18F\CFParkNG.obj
+Folder=Intermediary
+DeviceName=
+LanguageToolSuiteID=
+LanguageToolID=
+LanguageToolLocation=
+PPAD=
+SOLK=
+SuiteArgsString=
+ToolArgsString=
+TraceCmdString=
+DebugOptions=
+[File001]
+Location=D:\Hardware\CFPark\Sistema economico\Sistema economico 18F\CFParkNG.cce
+Folder=Intermediary
+DeviceName=
+LanguageToolSuiteID=
+LanguageToolID=
+LanguageToolLocation=
+PPAD=
+SOLK=
+SuiteArgsString=
+ToolArgsString=
+TraceCmdString=
+DebugOptions=
+[File002]
+Location=Sistema Economico.cof
+Folder=Output
+DeviceName=
+LanguageToolSuiteID=
+LanguageToolID=
+LanguageToolLocation=
+PPAD=
+SOLK=
+SuiteArgsString=
+ToolArgsString=
+TraceCmdString=
+DebugOptions=
